@@ -5,3 +5,5 @@ This repository has been prepared for the workshop organized by the *Escuela de 
 ## Acerca de
 
 Este repositorio ha sido preparado para el taller organizado por la *Escuela de Ingeniería Industrial* de la *Pontificia Universidad Católica de Valparaíso (PUCV)*, Chile.
+
+The link to the Colab notebook / El enlace al cuaderno de Colab: [https://tinyurl.com/pucvWorkshop](https://tinyurl.com/pucvWorkshop)
