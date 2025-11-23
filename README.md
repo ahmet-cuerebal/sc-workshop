@@ -8,4 +8,4 @@ Este repositorio ha sido preparado para el taller organizado por la *Escuela de 
 
 The link to the Colab notebook / El enlace al cuaderno de Colab: [https://tinyurl.com/pucvWorkshop](https://tinyurl.com/pucvWorkshop)
 
-![Workshop banner](images/workshop.png)
+![Workshop banner](banner.png)
